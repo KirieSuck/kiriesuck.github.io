@@ -2,14 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://kiriesuck.com/posts/6466e655/</loc>
-    
-    <lastmod>2020-12-31</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://kiriesuck.com/posts/4a17b156/</loc>
+    <loc>https://kiriesuck.com/posts/0/</loc>
     
     <lastmod>2020-12-31</lastmod>
     
@@ -59,20 +52,6 @@
   </url>
 
   
-  <url>
-    <loc>https://kiriesuck.com/tags/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2020-12-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
-  
-  <url>
-    <loc>https://kiriesuck.com/categories/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2020-12-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
   
 </urlset>
