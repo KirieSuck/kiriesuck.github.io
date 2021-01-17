@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>矢の図書館</title>
+  <title>Kirie&#39;s Blog</title>
   <icon>https://cdn.jsdelivr.net/gh/kiriesuck/cdn@master/icon/favicon.png</icon>
-  <subtitle>Kirie</subtitle>
+  
   <link href="https://kiriesuck.com/atom.xml" rel="self"/>
   
   <link href="https://kiriesuck.com/"/>
