@@ -3,11 +3,11 @@
   <title>Kirie&#39;s Blog</title>
   <icon>https://cdn.jsdelivr.net/gh/kiriesuck/cdn@master/icon/favicon.png</icon>
   
-  <link href="https://www.kirie.cc/atom.xml" rel="self"/>
+  <link href="https://kirie.cc/atom.xml" rel="self"/>
   
-  <link href="https://www.kirie.cc/"/>
+  <link href="https://kirie.cc/"/>
   <updated>2021-02-16T16:58:48.226Z</updated>
-  <id>https://www.kirie.cc/</id>
+  <id>https://kirie.cc/</id>
   
   <author>
     <name>Kirie</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>某笨蛋的 Pre-algebra:Arithmetic Properties 笔记</title>
-    <link href="https://www.kirie.cc/posts/3bf95c0f/"/>
-    <id>https://www.kirie.cc/posts/3bf95c0f/</id>
+    <link href="https://kirie.cc/posts/3bf95c0f/"/>
+    <id>https://kirie.cc/posts/3bf95c0f/</id>
     <published>2021-02-16T16:57:42.000Z</published>
     <updated>2021-02-16T16:58:48.226Z</updated>
     
@@ -37,12 +37,12 @@
     
     
     
-    <category term="Elementary Mathematics" scheme="https://www.kirie.cc/categories/Elementary-Mathematics/"/>
+    <category term="Elementary Mathematics" scheme="https://kirie.cc/categories/Elementary-Mathematics/"/>
     
     
-    <category term="Pre-algebra" scheme="https://www.kirie.cc/tags/Pre-algebra/"/>
+    <category term="Pre-algebra" scheme="https://kirie.cc/tags/Pre-algebra/"/>
     
-    <category term="Algebra" scheme="https://www.kirie.cc/tags/Algebra/"/>
+    <category term="Algebra" scheme="https://kirie.cc/tags/Algebra/"/>
     
   </entry>
   
