@@ -3,11 +3,11 @@
   <title>Kirie&#39;s Blog</title>
   <icon>https://cdn.jsdelivr.net/gh/kiriesuck/cdn@master/icon/favicon.png</icon>
   
-  <link href="https://kiriesuck.com/atom.xml" rel="self"/>
+  <link href="https://www.kirie.cc/atom.xml" rel="self"/>
   
-  <link href="https://kiriesuck.com/"/>
-  <updated>2020-12-31T11:06:39.246Z</updated>
-  <id>https://kiriesuck.com/</id>
+  <link href="https://www.kirie.cc/"/>
+  <updated>2021-02-16T16:58:48.226Z</updated>
+  <id>https://www.kirie.cc/</id>
   
   <author>
     <name>Kirie</name>
@@ -17,65 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>一只绒布球的故事</title>
-    <link href="https://kiriesuck.com/posts/823461f1/"/>
-    <id>https://kiriesuck.com/posts/823461f1/</id>
-    <published>2020-12-31T09:45:48.000Z</published>
-    <updated>2020-12-31T11:06:39.246Z</updated>
+    <title>某笨蛋的 Pre-algebra:Arithmetic Properties 笔记</title>
+    <link href="https://www.kirie.cc/posts/3bf95c0f/"/>
+    <id>https://www.kirie.cc/posts/3bf95c0f/</id>
+    <published>2021-02-16T16:57:42.000Z</published>
+    <updated>2021-02-16T16:58:48.226Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;《绒布球法》&quot;&gt;&lt;a href=&quot;#《绒布球法》&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;h2 id=&quot;位值制&quot;&gt;位值制&lt;/h2&gt;
+&lt;h3 id=&quot;十进制&quot;&gt;十进制&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math</summary>
         
       
     
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>论绒布球（下）</title>
-    <link href="https://kiriesuck.com/posts/f10ad022/"/>
-    <id>https://kiriesuck.com/posts/f10ad022/</id>
-    <published>2020-12-31T09:35:00.000Z</published>
-    <updated>2020-12-31T11:06:32.916Z</updated>
+    <category term="Elementary Mathematics" scheme="https://www.kirie.cc/categories/Elementary-Mathematics/"/>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;马克思曾经说过，一切节省，归根到底都归结为时间的节省。这不禁令我深思问题的关键究竟为何? 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 要想清楚，绒布球，到底是一种怎么样的存在。 既然如此，</summary>
-        
-      
+    <category term="Pre-algebra" scheme="https://www.kirie.cc/tags/Pre-algebra/"/>
     
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>论绒布球（上）</title>
-    <link href="https://kiriesuck.com/posts/f827c0da/"/>
-    <id>https://kiriesuck.com/posts/f827c0da/</id>
-    <published>2020-12-31T09:25:05.000Z</published>
-    <updated>2020-12-31T11:06:43.566Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;　　德谟克利特在不经意间这样说过，节制使快乐增加并使享受加强。我希望诸位也能好好地体会这句话。 卡耐基说过一句富有哲理的话，一个不注意小事情的人，永远不会成就大事业。这不禁令我深思。 我们都知道，只要有意义，那么就必须慎重考虑。</summary>
-        
-      
-    
-    
-    
+    <category term="Algebra" scheme="https://www.kirie.cc/tags/Algebra/"/>
     
   </entry>
   
