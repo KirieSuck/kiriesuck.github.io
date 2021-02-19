@@ -6,7 +6,7 @@
   <link href="https://kirie.cc/atom.xml" rel="self"/>
   
   <link href="https://kirie.cc/"/>
-  <updated>2021-02-16T16:58:48.226Z</updated>
+  <updated>2021-02-19T08:59:57.969Z</updated>
   <id>https://kirie.cc/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>某笨蛋的 Pre-algebra:Factors&amp;Multiples 笔记</title>
+    <link href="https://kirie.cc/posts/8178741e/"/>
+    <id>https://kirie.cc/posts/8178741e/</id>
+    <published>2021-02-19T08:59:23.000Z</published>
+    <updated>2021-02-19T08:59:57.969Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;整除性&quot;&gt;整除性&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;如果一个数的最后一位数是偶数，那么这个数可以被 &lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math</summary>
+        
+      
+    
+    
+    
+    <category term="Elementary Mathematics" scheme="https://kirie.cc/categories/Elementary-Mathematics/"/>
+    
+    
+    <category term="Pre-algebra" scheme="https://kirie.cc/tags/Pre-algebra/"/>
+    
+    <category term="Factors" scheme="https://kirie.cc/tags/Factors/"/>
+    
+    <category term="Multiples" scheme="https://kirie.cc/tags/Multiples/"/>
+    
+  </entry>
   
   <entry>
     <title>某笨蛋的 Pre-algebra:Arithmetic Properties 笔记</title>
