@@ -6,7 +6,7 @@
   <link href="https://kirie.cc/atom.xml" rel="self"/>
   
   <link href="https://kirie.cc/"/>
-  <updated>2021-02-19T08:59:57.969Z</updated>
+  <updated>2021-02-20T18:10:41.751Z</updated>
   <id>https://kirie.cc/</id>
   
   <author>
@@ -15,6 +15,41 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>某笨蛋的 Pre-Algebre:Reading&amp;Interpreting data 笔记</title>
+    <link href="https://kirie.cc/posts/c2ceabd1/"/>
+    <id>https://kirie.cc/posts/c2ceabd1/</id>
+    <published>2021-02-20T18:10:00.000Z</published>
+    <updated>2021-02-20T18:10:41.751Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;常见数据表示&quot;&gt;常见数据表示&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;表格&lt;/li&gt;
+&lt;li&gt;柱状图&lt;/li&gt;
+&lt;li&gt;列表&lt;/li&gt;
+&lt;li&gt;饼图&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="Elementary Mathematics" scheme="https://kirie.cc/categories/Elementary-Mathematics/"/>
+    
+    
+    <category term="Pre-algebra" scheme="https://kirie.cc/tags/Pre-algebra/"/>
+    
+    <category term="Statistical" scheme="https://kirie.cc/tags/Statistical/"/>
+    
+  </entry>
   
   <entry>
     <title>某笨蛋的 Pre-algebra:Factors&amp;Multiples 笔记</title>

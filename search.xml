@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>某笨蛋的 Pre-Algebre:Reading&amp;Interpreting data 笔记</title>
+      <link href="posts/c2ceabd1/"/>
+      <url>posts/c2ceabd1/</url>
+      
+        <content type="html"><![CDATA[<h2 id="常见数据表示">常见数据表示</h2><ul><li>表格</li><li>柱状图</li><li>列表</li><li>饼图</li></ul><div style="text-align: center;"><p><img src="https://cdn.jsdelivr.net/gh/kiriesuck/MarkdownImg/pre-algebra-math-reasoning/1.webp" alt="表格示例"><br><img src="https://cdn.jsdelivr.net/gh/kiriesuck/MarkdownImg/pre-algebra-math-reasoning/2.webp" alt="柱状图示例"><br><img src="https://cdn.jsdelivr.net/gh/kiriesuck/MarkdownImg/pre-algebra-math-reasoning/3.webp" alt="列表示例"></p></div><h2 id="数据范围">数据范围</h2><p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>R</mi><mi>a</mi><mi>n</mi><mi>g</mi><mi>e</mi><mo>=</mo><mi>M</mi><mi>a</mi><mi>x</mi><mo>−</mo><mi>M</mi><mi>i</mi><mi>n</mi></mrow><annotation encoding="application/x-tex">Range = Max-Min</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span class="mord mathnormal" style="margin-right:0.00773em;">R</span><span class="mord mathnormal">a</span><span class="mord mathnormal">n</span><span class="mord mathnormal" style="margin-right:0.03588em;">g</span><span class="mord mathnormal">e</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.76666em;vertical-align:-0.08333em;"></span><span class="mord mathnormal" style="margin-right:0.10903em;">M</span><span class="mord mathnormal">a</span><span class="mord mathnormal">x</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathnormal" style="margin-right:0.10903em;">M</span><span class="mord mathnormal">i</span><span class="mord mathnormal">n</span></span></span></span></p><h2 id="折线图">折线图</h2><div style="text-align: center;"><p><img src="https://cdn.jsdelivr.net/gh/kiriesuck/MarkdownImg/pre-algebra-math-reasoning/4.webp" alt="折线图示例 GME 股票价格"></p></div><h2 id="茎叶图">茎叶图</h2><div style="text-align: center;"><p><img src="https://cdn.jsdelivr.net/gh/kiriesuck/MarkdownImg/pre-algebra-math-reasoning/5.webp" alt="茎叶图"></p></div><ul><li>变化不大或不变的值作为<strong>茎</strong>位于“<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">∣</mi><mi>x</mi><mi mathvariant="normal">∣</mi></mrow><annotation encoding="application/x-tex">|x|</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord">∣</span><span class="mord mathnormal">x</span><span class="mord">∣</span></span></span></span>”里面<ul><li>位于茎的值作为位于叶的值前面的位值存在，如 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">∣</mi><mn>2</mn><mi mathvariant="normal">∣</mi><mn>3</mn><mo>=</mo><mn>23</mn></mrow><annotation encoding="application/x-tex">|2|3 = 23</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord">∣</span><span class="mord">2</span><span class="mord">∣</span><span class="mord">3</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">2</span><span class="mord">3</span></span></span></span></li></ul></li><li>变化大的值作为叶位于<em>两侧</em>或一侧</li><li>从小到大排可能会好看一些…?</li></ul><h2 id="象形图">象形图</h2><div style="text-align: center;"><p><img src="https://cdn.jsdelivr.net/gh/kiriesuck/MarkdownImg/pre-algebra-math-reasoning/6.webp" alt="象形统计图"></p></div><ul><li>在示例中，每一滴血代表八个人（黄线），这可被视为象形图的“刻度”</li></ul><h2 id="直方图">直方图</h2><ul><li>直方图的数据是连续的，柱状图的则是被分成不同类型的</li><li>直方图通常用于统计一组数据的频率（如欧洲君主在位时间长度）</li></ul><div style="text-align: center;"><p><img src="https://cdn.jsdelivr.net/gh/kiriesuck/MarkdownImg/pre-algebra-math-reasoning/7.webp" alt="直方图"></p></div><h2 id="频率表">频率表</h2><ul><li>类似于直方图，频率表同样用于统计数据分布的频率</li></ul><div style="text-align: center;"><p><img src="https://cdn.jsdelivr.net/gh/kiriesuck/MarkdownImg/pre-algebra-math-reasoning/8.webp" alt="频率表"></p></div><h2 id="圆点图-Dot-plot">圆点图 (Dot plot)</h2><ul><li>同样用于表示数据分布的频率</li></ul><div style="text-align: center;"><p><img src="https://cdn.jsdelivr.net/gh/kiriesuck/MarkdownImg/pre-algebra-math-reasoning/9.webp" alt="圆点图"></p></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> Elementary Mathematics </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Pre-algebra </tag>
+            
+            <tag> Statistical </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>某笨蛋的 Pre-algebra:Factors&amp;Multiples 笔记</title>
       <link href="posts/8178741e/"/>
       <url>posts/8178741e/</url>
