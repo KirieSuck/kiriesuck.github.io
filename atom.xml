@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Kirie&#39;s Blog</title>
+  <title>sommio&#39;s blog</title>
   <icon>https://cdn.jsdelivr.net/gh/kiriesuck/cdn@master/icon/favicon.png</icon>
   
   <link href="https://kirie.cc/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://kirie.cc/</id>
   
   <author>
-    <name>Kirie</name>
+    <name>sommio</name>
     
   </author>
   
@@ -109,6 +109,27 @@
     <category term="Pre-algebra" scheme="https://kirie.cc/tags/Pre-algebra/"/>
     
     <category term="Algebra" scheme="https://kirie.cc/tags/Algebra/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python for Karel 部署</title>
+    <link href="https://kirie.cc/posts/6c90d20f/"/>
+    <id>https://kirie.cc/posts/6c90d20f/</id>
+    <published>1970-01-01T00:00:00.000Z</published>
+    <updated>2021-03-01T19:48:52.892Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Karel 最初是由斯坦福研究生理查·帕蒂斯（Rich Pattis）于 1970 年代设计的入门编程环境，Karel</summary>
+        
+      
+    
+    
+    
     
   </entry>
   
